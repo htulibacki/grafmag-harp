@@ -1,0 +1,45 @@
+{
+    "globals": {
+        "title": "Z Lotu Ptaka - Profesjonalne zdjęcia lotnicze"
+    },
+    "o-nas": {
+        "title": "O nas - Z Lotu Ptaka"
+    },
+    "galeria": {
+        "title": "Galeria - Z Lotu Ptaka",
+        "gallery": [{
+            "filename": "01.jpg",
+            "title": "Zamek Czocha"
+        }, {
+            "filename": "02.jpg",
+            "title": "Złotniki Lubańskie"
+        }, {
+            "filename": "03.jpg",
+            "title": "Widok na jezioro"
+        }, {
+            "filename": "04.jpg",
+            "title": "Widok na blokowisko"
+        }, {
+            "filename": "05.jpg",
+            "title": "Oczyszczalnia ścieków w Opolu"
+        }, {
+            "filename": "06.jpg",
+            "title": "Kościół Na Skałce"
+        }, {
+            "filename": "07.jpg",
+            "title": "Traktor bronujący pole"
+        }, {
+            "filename": "08.jpg",
+            "title": "Widok na Kraków"
+        }, {
+            "filename": "09.jpg",
+            "title": "Port w Gdyni z lotu ptaka"
+        }, {
+            "filename": "10.jpg",
+            "title": "Plaża w Ustce"
+        }]
+    },
+    "kontakt": {
+        "title": "Kontakt - Z Lotu Ptaka"
+    }
+}

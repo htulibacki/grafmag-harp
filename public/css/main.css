@@ -1,0 +1,38 @@
+.logo {
+    margin-top: -6px;
+    margin-right: 10px;
+}
+
+.navbar .nav .active {
+    text-decoration: underline;
+}
+
+.skills {
+    text-align: center;
+    padding-top: 50px;
+    margin-bottom: 50px;
+}
+
+.skills .icon {
+    font-size: 100px;
+}
+
+.opinions {
+    margin-bottom: 50px;
+}
+
+.team {
+    margin-bottom: 50px;
+}
+
+.map {
+    height: 500px;
+}
+
+.contact {
+    margin-bottom: 50px;
+}
+
+footer {
+    text-align: center;
+}
